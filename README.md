@@ -1,5 +1,5 @@
 <h1>API REST de CRUD para una tabla de empleados y departamento con una relación de muchos a uno en Django</h1>
-<p>Este proyecto utiliza Django para la creación de una API REST que implementa un CRUD y se puede utilizar como un microservicio. Además, utiliza una implementación de base de datos como PostgreSQL, la cual debe ser configurada antes de configurar esta imagen.</p>
+<p>Este proyecto utiliza Django para la creación de una API REST que implementa un CRUD y se puede utilizar como un microservicio. Además, utiliza una implementación de base de datos como PostgreSQL, la cual debe ser configurada antes de configurar este poryecto.</p>
 
 <h2>Clonar este proyecto</h2>
 
